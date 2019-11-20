@@ -1,1 +1,5 @@
 master branch
+this is develop branch, you can do anything and commit it without change in master branch once you merge develop to master
+$ git checkout -b develop
+$ git add file.txt
+$ git commit -m "what you want to notice"
