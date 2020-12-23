@@ -4,3 +4,14 @@ edit master branch file.txt and commit it, it will make change
 continue learning about 
 
 x+ y =z
+
+edit file.txt
+git status
+ls -la
+git diff
+git status
+git add -A
+git status
+git commit -m "remove something, add something"
+git status
+git push origin master
