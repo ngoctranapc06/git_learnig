@@ -121,3 +121,6 @@ https://help.github.com/en/github/authenticating-to-github/adding-a-new-ssh-key-
 12. $ git checkout develop 
                                                 (2 above steps can be integrated into one step: git checkout -b develop)
 13. $ git push origin develop
+
+
+git with vs code
